@@ -1,4 +1,4 @@
-To-Do List Application 📝
+To-Do List Application 
 
 A simple command-line To-Do List application built using Core Python and Object-Oriented Programming (OOP).
 
